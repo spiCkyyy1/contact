@@ -9,6 +9,8 @@
 
 ## Setting Up Contact Us Project
 - Clone the repository
+- Generate key
+- Create .env file
 - Create database with name **contact**
 - php artisan migrate
 - Npm install
